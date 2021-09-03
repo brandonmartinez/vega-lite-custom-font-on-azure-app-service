@@ -1,0 +1,24 @@
+{
+  "name": "vega-lite-custom-font-on-azure-app-service",
+  "version": "1.0.0",
+  "description": "Example of using custom fonts with Vega-lite on an Azure App Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonmartinez/vega-lite-custom-font-on-azure-app-service.git"
+  },
+  "author": "Brandon Martinez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brandonmartinez/vega-lite-custom-font-on-azure-app-service/issues"
+  },
+  "homepage": "https://github.com/brandonmartinez/vega-lite-custom-font-on-azure-app-service#readme",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "vega": "^5.20.2",
+    "vega-lite": "^5.1.0"
+  }
+}
